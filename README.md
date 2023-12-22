@@ -33,26 +33,3 @@ make arm
 make aarch64
 ```
 The compiled executables will be named ppc (for powerpc), arm (for arm), and aarch64 (for aarch64).
-
-## Checklist
-- registers
-	- names []
-	- width []
-- stack memory
-	- how is it used []
-	- prolouge, epilouge []
-- calling conventions
-	- arguments []
-	- return value []
-	- return address []
-- control flow
-	- branching []
-	- conditional branches[]
-	- calls []
-- syscall interface []
-
-
-
-
-
-
